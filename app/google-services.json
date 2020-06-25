@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812435946339",
+    "firebase_url": "https://fir-f69b0.firebaseio.com",
+    "project_id": "fir-f69b0",
+    "storage_bucket": "fir-f69b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812435946339:android:fa58026b66551d82c4b156",
+        "android_client_info": {
+          "package_name": "com.sleepingpandaaa.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812435946339-c0lh3t6hi2d34hsfv71isfkaf3khp5hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBURsO9ANESAHw5SHVw5-OTZp_HIl-p3Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812435946339-c0lh3t6hi2d34hsfv71isfkaf3khp5hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

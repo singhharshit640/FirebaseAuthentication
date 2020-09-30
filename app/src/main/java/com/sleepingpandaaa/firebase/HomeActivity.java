@@ -1,5 +1,5 @@
 package com.sleepingpandaaa.firebase;
-
+// Importing external packages
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
